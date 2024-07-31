@@ -12,7 +12,7 @@
 
 ### 🌟 Core Strengths
 My legal background has equipped me with a unique and powerful set of skills that I seamlessly integrate into my role as a software-developer:
-- **💬 Exceptional Communication:** Adept at articulating complex ideas clearly and collaborating effectively with diverse teams.
+- **💬 Effective Communication:** Adept at articulating complex ideas clearly and collaborating effectively with diverse teams.
 - **🔍 Meticulous Attention to Detail:** Precision-oriented, ensuring every line of code is crafted with care and accuracy.
 - **🤝 Collaborative Spirit:** Thrives in team environments, fostering cooperation and achieving collective goals.
 - **🧠 Logical Reasoning:** Strong analytical skills enable me to tackle challenging problems with structured and logical solutions.
