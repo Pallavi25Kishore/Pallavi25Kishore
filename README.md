@@ -1,11 +1,17 @@
 ## About Me
 
-👋 Hi there! I'm Pallavi, a full-stack software developer with a fervent passion for blending creativity and analytical thinking to craft elegant solutions.
+<h1 align="center" style="color: #ff6600;">👋 Hi there! I'm Pallavi</h1>
+
+<p align="center" style="font-size: 1.2em;">A passionate Full-Stack Software Developer</p>
+
+<hr style="border: 2px solid #ff6600;">
 
 ### ⚡ Quick Facts
 - **Professional Focus:** Full-Stack Software Developer
 - **Background:** Dual-qualified lawyer turned software-developer
 - **Passions:** Integrating technology with creativity 
+
+<hr style="border: 2px solid #ff6600;">
 
 ### 🌟 Core Strengths
 My legal background has equipped me with a unique and powerful set of skills that I seamlessly integrate into my role as a software-developer:
@@ -17,12 +23,16 @@ My legal background has equipped me with a unique and powerful set of skills tha
 - **✨ Creative Problem Solver:** Innovative thinker, adept at finding creative solutions to complex technical challenges.
 - **🤝 Skilled Negotiator:** Adept at finding common ground and resolving conflicts effectively.
 
+<hr style="border: 2px solid #ff6600;">
+
 ### 🛠️ Technologies & Tools
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,jquery,react,tailwind,express,babel,jest,vscode,bash,git,github,aws,mongodb,mysql,nodejs,postgres,postman,sequelize,webpack,nginx&theme=light" />
   </a>
 </p>
+
+<hr style="border: 2px solid #ff6600;">
 
 ### 🎉 Fun Facts
 - **🐾 Pet Parent:** Love taking care of my lil ball of fur
@@ -31,14 +41,29 @@ My legal background has equipped me with a unique and powerful set of skills tha
 - **❤️ Heart Warrior:** Strong and resilient, facing life challenges with courage.
 - **📚 Lifelong Learner:** Constantly seeking knowledge and honing my skills.
 
+<hr style="border: 2px solid #ff6600;">
+
 ### 🎓 Education
-- **![Hack Reactor](https://img.shields.io/badge/Hack%20Reactor-black?style=for-the-badge)** 
-- **![Harvard Law School](https://img.shields.io/badge/Harvard%20Law%20School-black?style=for-the-badge)** 
+<p align="center">
+  <img src="https://img.shields.io/badge/Hack%20Reactor-black?style=for-the-badge" alt="Hack Reactor" />
+  <img src="https://img.shields.io/badge/Harvard%20Law%20School-black?style=for-the-badge" alt="Harvard Law School" />
+</p>
+
+<hr style="border: 2px solid #ff6600;">
 
 ### 🤝 Happy to Collaborate
 I am always excited to collaborate on interesting projects and ideas.
 
-### 📫 Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pallavi-kishore-46251726/)
-- [![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)](mailto:Pallavi25Kishore@gmail.com)
+<hr style="border: 2px solid #ff6600;">
 
+### 📫 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/pallavi-kishore-46251726/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Pallavi25Kishore@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail" alt="Gmail" />
+  </a>
+</p>
+
+<hr style="border: 2px solid #ff6600;">
