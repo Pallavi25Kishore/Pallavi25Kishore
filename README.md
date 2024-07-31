@@ -23,31 +23,11 @@ My legal background has equipped me with a unique and powerful set of skills tha
 
 ### 🛠️ Technologies & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" alt="CSS3" />
-  <img src="https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery" alt="jQuery" />
-  <img src="https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express" alt="Express.js" />
-  <img src="https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx" alt="NGINX" />
-  <img src="https://img.shields.io/badge/aws%20ec2-black?style=for-the-badge&logo=amazon-aws" alt="AWS EC2" />
-  <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git" alt="Git" />
-  <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" alt="GitHub" />
-  <img src="https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman" alt="Postman" />
-  <img src="https://img.shields.io/badge/mocha-black?style=for-the-badge&logo=mocha" alt="Mocha" />
-  <img src="https://img.shields.io/badge/chai-black?style=for-the-badge&logo=chai" alt="Chai" />
-  <img src="https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest" alt="Jest" />
-  <img src="https://img.shields.io/badge/grafana%20k6-black?style=for-the-badge&logo=grafana" alt="Grafana k6" />
-  <img src="https://img.shields.io/badge/loader.io-black?style=for-the-badge" alt="Loader.io" />
-  <img src="https://img.shields.io/badge/agile%20methodologies-black?style=for-the-badge" alt="Agile" />
-  <img src="https://img.shields.io/badge/lighthouse-black?style=for-the-badge&logo=lighthouse" alt="Lighthouse" />
-  <img src="https://img.shields.io/badge/test--driven%20development-black?style=for-the-badge" alt="TDD" />
-  <img src="https://img.shields.io/badge/component--based%20architecture-black?style=for-the-badge" alt="Component-Based Architecture" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,jquery,react,tailwind,express,babel,jest,vscode,bash,git,github,aws,mongodb,mysql,nodejs,postgres,postman,sequelize,webpack,nginx,mocha,chai,k6,remix" />
+  </a>
 </p>
+
 
 ### 🎉 Fun Facts
 - **🐾 Pet Parent:** Love taking care of my lil ball of fur
