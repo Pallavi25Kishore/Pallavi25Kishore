@@ -5,7 +5,7 @@
 ### ⚡ Quick Facts
 - **Professional Focus:** Full-Stack Software Developer
 - **Background:** Dual-qualified lawyer turned software-developer
-- **Passions:** Merging technology with creativity and pursuing continuous learning
+- **Passions:** Integrating technology with creativity 
 
 ### 🌟 Core Strengths
 My legal background has equipped me with a unique and powerful set of skills that I seamlessly integrate into my role as a software-developer:
@@ -17,10 +17,6 @@ My legal background has equipped me with a unique and powerful set of skills tha
 - **✨ Creative Problem Solver:** Innovative thinker, adept at finding creative solutions to complex technical challenges.
 - **🤝 Skilled Negotiator:** Adept at finding common ground and resolving conflicts effectively.
 
-### 🎓 Education
-- **![Hack Reactor](https://img.shields.io/badge/Hack%20Reactor-black?style=for-the-badge)** Completed an intensive, full-time software engineering certificate focused on advanced JavaScript, front-end, and backend web development 
-- **![Harvard Law School](https://img.shields.io/badge/Harvard%20Law%20School-black?style=for-the-badge)** 
-
 ### 🛠️ Technologies & Tools
 <p align="left">
   <a href="https://skillicons.dev">
@@ -28,13 +24,16 @@ My legal background has equipped me with a unique and powerful set of skills tha
   </a>
 </p>
 
-
 ### 🎉 Fun Facts
 - **🐾 Pet Parent:** Love taking care of my lil ball of fur
 - **🌿 Plant Enthusiast:** Passionate about nurturing a variety of house-plants.
 - **🌍 Avid Traveler:** Love exploring new destinations and immersing myself in different cultures.
 - **❤️ Heart Warrior:** Strong and resilient, facing life challenges with courage.
 - **📚 Lifelong Learner:** Constantly seeking knowledge and honing my skills.
+
+### 🎓 Education
+- **![Hack Reactor](https://img.shields.io/badge/Hack%20Reactor-black?style=for-the-badge)** 
+- **![Harvard Law School](https://img.shields.io/badge/Harvard%20Law%20School-black?style=for-the-badge)** 
 
 ### 🤝 Happy to Collaborate
 I am always excited to collaborate on interesting projects and ideas.
