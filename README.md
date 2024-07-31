@@ -23,7 +23,7 @@ My legal background has equipped me with a unique and powerful set of skills tha
 <hr style="border: 2px solid #ff6600;">
 
 ### 🛠️ Technologies & Tools
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,jquery,react,tailwind,express,babel,jest,vscode,bash,git,github,aws,mongodb,mysql,nodejs,postgres,postman,sequelize,webpack,nginx&theme=light" />
   </a>
