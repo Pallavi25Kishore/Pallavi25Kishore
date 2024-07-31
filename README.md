@@ -18,8 +18,8 @@ My legal background has equipped me with a unique and powerful set of skills tha
 - **🤝 Skilled Negotiator:** Adept at finding common ground and resolving conflicts effectively.
 
 ### 🎓 Education
-- **Hack Reactor:** Completed an intensive, full-time software engineering certificate focused on advanced JavaScript, front-end, and backend web development ![Hack Reactor](https://img.shields.io/badge/Hack%20Reactor-black?style=for-the-badge)
-- **Harvard Law School** ![Harvard Law School](https://img.shields.io/badge/Harvard%20Law%20School-black?style=for-the-badge)
+- **![Hack Reactor](https://img.shields.io/badge/Hack%20Reactor-black?style=for-the-badge)** Completed an intensive, full-time software engineering certificate focused on advanced JavaScript, front-end, and backend web development 
+- **![Harvard Law School](https://img.shields.io/badge/Harvard%20Law%20School-black?style=for-the-badge)** 
 
 ### 🛠️ Technologies & Tools
 <p align="left">
