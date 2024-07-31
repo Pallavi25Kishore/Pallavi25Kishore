@@ -1,8 +1,8 @@
 ## About Me
 
-<h1 align="center" style="color: #ff6600;">👋 Hi there! I'm Pallavi</h1>
+<h1 style="color: #ff6600;">👋 Hi there! I'm Pallavi,</h1>
 
-<p align="center" style="font-size: 1.2em;">A passionate Full-Stack Software Developer</p>
+<p align="center" style="font-size: 1.2em;">A full-stack software developer with a fervent passion for blending creativity and analytical thinking to craft elegant solutions</p>
 
 <hr style="border: 2px solid #ff6600;">
 
@@ -44,7 +44,7 @@ My legal background has equipped me with a unique and powerful set of skills tha
 <hr style="border: 2px solid #ff6600;">
 
 ### 🎓 Education
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Hack%20Reactor-black?style=for-the-badge" alt="Hack Reactor" />
   <img src="https://img.shields.io/badge/Harvard%20Law%20School-black?style=for-the-badge" alt="Harvard Law School" />
 </p>
@@ -57,7 +57,7 @@ I am always excited to collaborate on interesting projects and ideas.
 <hr style="border: 2px solid #ff6600;">
 
 ### 📫 Let's Connect
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/pallavi-kishore-46251726/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
