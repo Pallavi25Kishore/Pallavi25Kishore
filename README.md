@@ -1,6 +1,6 @@
 ## :wave:About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6833F7&width=800&lines=Hi+there!+I'm+Pallavi,+a+full-stack+software+developer!)](https://git.io/typing-svg)
-![Snake Game](https://github.com/Pallavi25Kishore/Pallavi25Kishore/raw/output/github-contribution-grid-snake.svg)
+![Snake Game](https://github.com/Pallavi25Kishore/Pallavi25Kishore/raw/output/github-contribution-grid-snake-dark.svg)
 
 <hr style="border: 2px solid #6833F7;">
 
