@@ -1,12 +1,12 @@
 ## About Me
-👋 Hi there! I'm Pallavi, a full-stack software developer with a fervent passion for blending creativity and analytical thinking to craft elegant solutions.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋 Hi+there!+I'm+Pallavi,+a+full-stack+software+developer!)](https://git.io/typing-svg)
 
 <hr style="border: 2px solid #ff6600;">
 
 ### ⚡ Quick Facts
 - **Professional Focus:** Full-Stack Software Developement
 - **Background:** Dual-qualified lawyer turned software-developer
-- **Passions:** Integrating technology with creativity 
+- **Passions:** Blending creativity and analytical thinking to craft elegant solutions
 
 <hr style="border: 2px solid #ff6600;">
 
