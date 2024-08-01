@@ -10,18 +10,6 @@
 
 <hr style="border: 2px solid #6833F7;">
 
-### 🌟 Core Strengths
-My legal background has equipped me with a unique and powerful set of skills that I seamlessly integrate into my role as a software-developer:
-- **💬 Effective Communication:** Adept at articulating complex ideas clearly and collaborating effectively with diverse teams.
-- **🔍 Meticulous Attention to Detail:** Precision-oriented, ensuring every line of code is crafted with care and accuracy.
-- **🤝 Collaborative Spirit:** Thrives in team environments, fostering cooperation and achieving collective goals.
-- **🧠 Logical Reasoning:** Strong analytical skills enable me to tackle challenging problems with structured and logical solutions.
-- **💪 Relentless Work Ethic:** Dedicated and hardworking, consistently going above and beyond to achieve excellence.
-- **✨ Creative Problem Solver:** Innovative thinker, adept at finding creative solutions to complex technical challenges.
-- **🤝 Skilled Negotiator:** Adept at finding common ground and resolving conflicts effectively.
-
-<hr style="border: 2px solid #ff6600;">
-
 ### 🛠️ Technologies & Tools
 <p>
   <a href="https://skillicons.dev">
@@ -40,6 +28,18 @@ My legal background has equipped me with a unique and powerful set of skills tha
 
 <hr style="border: 2px solid #ff6600;">
 
+### 🌟 Core Strengths
+My legal background has equipped me with a unique and powerful set of skills that I seamlessly integrate into my role as a software-developer:
+- **💬 Effective Communication:** Adept at articulating complex ideas clearly and collaborating effectively with diverse teams.
+- **🔍 Meticulous Attention to Detail:** Precision-oriented, ensuring every line of code is crafted with care and accuracy.
+- **🤝 Collaborative Spirit:** Thrives in team environments, fostering cooperation and achieving collective goals.
+- **🧠 Logical Reasoning:** Strong analytical skills enable me to tackle challenging problems with structured and logical solutions.
+- **💪 Relentless Work Ethic:** Dedicated and hardworking, consistently going above and beyond to achieve excellence.
+- **✨ Creative Problem Solver:** Innovative thinker, adept at finding creative solutions to complex technical challenges.
+- **🤝 Skilled Negotiator:** Adept at finding common ground and resolving conflicts effectively.
+
+  <hr style="border: 2px solid #ff6600;">
+
 ### 🎓 Education
 <p>
   <img src="https://img.shields.io/badge/Hack%20Reactor-black?style=for-the-badge" alt="Hack Reactor" />
@@ -50,7 +50,7 @@ My legal background has equipped me with a unique and powerful set of skills tha
 <hr style="border: 2px solid #ff6600;">
 
 ### 🤝 Happy to Collaborate
-I am always excited to collaborate on interesting projects and ideas.
+I am always excited to collaborate on interesting projects and ideas!
 
 <hr style="border: 2px solid #ff6600;">
 
