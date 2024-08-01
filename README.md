@@ -9,7 +9,7 @@
 <hr style="border: 2px solid #6833F7;">
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+  <div style="flex: 2;">
     <h3>:fire: Overview</h3>
     <ul>
       <li><strong>Professional Focus:</strong> Full-Stack Software Development</li>
