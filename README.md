@@ -22,6 +22,47 @@
   </a>
 </p>
 
+<p>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/datastructuresalgorithms/datastructuresalgorithms-icon.svg" alt="Data Structures"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/objectorienteddesign/objectorienteddesign-icon.svg" alt="Object-oriented design"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/ormodms/ormodms-icon.svg" alt="ORM/ODMs"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/sql/sql-icon.svg" alt="SQL"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/nosql/nosql-icon.svg" alt="NoSQL"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/entityrelationshipdiagram/entityrelationshipdiagram-icon.svg" alt="Entity Relationship Diagrams"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/sequelize/sequelize-icon.svg" alt="Sequelize"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/mongoose/mongoose-icon.svg" alt="Mongoose"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/mvc/mvc-icon.svg" alt="MVC"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/stresstesting/stresstesting-icon.svg" alt="Stress Testing"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" alt="CSS3"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/dom/dom-icon.svg" alt="DOM"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/eventlisteners/eventlisteners-icon.svg" alt="Event Listeners"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/ajax/ajax-icon.svg" alt="AJAX"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/remix/remix-icon.svg" alt="Remix"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/devops/devops-icon.svg" alt="DevOps"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS (EC2)"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="NGINX"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="Chai"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/jest/jest-icon.svg" alt="Jest"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/k6io/k6io-icon.svg" alt="k6"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/loaderio/loaderio-icon.svg" alt="Loader.io"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/agilemethodology/agilemethodology-icon.svg" alt="Agile methodologies"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/lighthouse/lighthouse-icon.svg" alt="Lighthouse"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/testdrivendevelopment/testdrivendevelopment-icon.svg" alt="Test-driven Development"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/componentbasedarchitecture/componentbasedarchitecture-icon.svg" alt="Component-Based Architecture"></code>
+</p>
+
 <hr style="border: 2px solid #ff6600;">
 
 ### 🎉 Fun Facts
