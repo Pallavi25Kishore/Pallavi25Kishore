@@ -1,5 +1,5 @@
 ## :wave:About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6833F7&width=800&lines=Hi+there!+I'm+Pallavi,+a+full-stack+software+developer!)](https://git.io/typing-svg)
+<img src="./Animation - 1722528065159.gif" alt="Cute Robot Animation" height="20"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6833F7&width=800&lines=Hi+there!+I'm+Pallavi,+a+full-stack+software+developer!)](https://git.io/typing-svg) 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Pallavi25Kishore/Pallavi25Kishore/raw/output/github-contribution-grid-snake-dark.svg">
@@ -53,7 +53,7 @@ My legal background has equipped me with a unique and powerful set of skills tha
 
 <hr style="border: 2px solid #ff6600;">
 
-### 📫 <img src="./Animation - 1722528065159.gif" alt="Cute Robot Animation"> Let's Connect!
+### 📫 Let's Connect!
 <p>
   <a href="https://www.linkedin.com/in/pallavi-kishore-46251726/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -65,7 +65,7 @@ My legal background has equipped me with a unique and powerful set of skills tha
 
 <hr style="border: 2px solid #ff6600;">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pallavi25Kishore&theme=discord&title=-Stars,-Followers,-Experience,-Issues)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pallavi25Kishore&theme=discord&title=-Stars,-Followers,-Experience,-Issues)](https://github.com/ryo-ma/github-profile-trophy) 
 
 <hr style="border: 2px solid #ff6600;">
 
