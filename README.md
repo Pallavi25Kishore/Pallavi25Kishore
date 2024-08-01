@@ -54,8 +54,9 @@ My legal background has equipped me with a unique and powerful set of skills tha
 <hr style="border: 2px solid #ff6600;">
 
 ### 📫 Let's Connect!
-<img src="./Animation - 1722528065159.gif" alt="Cute Robot Animation" height="100">
+
 <p>
+  <img src="./Animation - 1722528065159.gif" alt="Cute Robot Animation" height="100">
   <a href="https://www.linkedin.com/in/pallavi-kishore-46251726/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
