@@ -1,6 +1,6 @@
 ## :wave:About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6833F7&width=800&lines=Hi+there!+I'm+Pallavi,+a+full-stack+software+developer!)](https://git.io/typing-svg)
-<div>
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Pallavi25Kishore/Pallavi25Kishore/raw/output/github-contribution-grid-snake-dark.svg">
     <img alt="github contribution grid snake" src="https://github.com/Pallavi25Kishore/Pallavi25Kishore/raw/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
@@ -12,11 +12,6 @@
 - **Professional Focus:** Full-Stack Software Developement
 - **Background:** Dual-qualified lawyer turned software-developer
 - **Passions:** Blending creativity and analytical thinking to craft elegant solutions
-
-  <div align="right">
-  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-  <lottie-player src="https://lottie.host/95c3c3ed-0ccc-40ed-9fd6-5614ba001e61/pM7QVXLz5h.json" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></lottie-player>
-</div>
 
 <hr style="border: 2px solid #6833F7;">
 
