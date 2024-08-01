@@ -4,7 +4,7 @@
 <hr style="border: 2px solid #ff6600;">
 
 ### ⚡ Quick Facts
-- **Professional Focus:** Full-Stack Software Developer
+- **Professional Focus:** Full-Stack Software Developement
 - **Background:** Dual-qualified lawyer turned software-developer
 - **Passions:** Integrating technology with creativity 
 
