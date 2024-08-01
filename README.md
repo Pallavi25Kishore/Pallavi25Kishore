@@ -1,7 +1,5 @@
 ## :wave:About Me
-<div>
-<img src="./Animation - 1722528065159.gif" alt="Cute Robot Animation" height="80">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6833F7&width=800&lines=Hi+there!+I'm+Pallavi,+a+full-stack+software+developer!)](https://git.io/typing-svg) 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6833F7&width=800&lines=Hi+there!+I'm+Pallavi,+a+full-stack+software+developer!)](https://git.io/typing-svg) 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Pallavi25Kishore/Pallavi25Kishore/raw/output/github-contribution-grid-snake-dark.svg">
@@ -49,6 +47,7 @@ My legal background has equipped me with a unique and powerful set of skills tha
 
 ### 🎓 Education
 <p>
+  <img src="./Animation - 1722528065159.gif" alt="Cute Robot Animation" height="80">
   <img src="https://img.shields.io/badge/Hack%20Reactor-black?style=for-the-badge" alt="Hack Reactor" />
   <img src="https://img.shields.io/badge/Harvard%20Law%20School-black?style=for-the-badge" alt="Harvard Law School" />
 </p>
