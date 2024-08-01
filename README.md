@@ -8,8 +8,8 @@
 </div>
 <hr style="border: 2px solid #6833F7;">
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 2;">
+<div style="display: flex; align-items: flex-start; flex-direction: row;">
+  <div style="flex: 2; padding-right: 20px;">
     <h3>:fire: Overview</h3>
     <ul>
       <li><strong>Professional Focus:</strong> Full-Stack Software Development</li>
