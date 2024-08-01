@@ -60,7 +60,6 @@ My legal background has equipped me with a unique and powerful set of skills tha
   <a href="https://www.linkedin.com/in/pallavi-kishore-46251726/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <br>
   <a href="mailto:Pallavi25Kishore@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail" alt="Gmail" />
   </a>
