@@ -67,3 +67,6 @@ I am always excited to collaborate on interesting projects and ideas.
 
 <hr style="border: 2px solid #ff6600;">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pallavi25Kishore&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+
