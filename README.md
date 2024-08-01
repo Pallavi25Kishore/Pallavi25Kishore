@@ -1,14 +1,14 @@
 ## :wave:About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6833F7&width=800&lines=Hi+there!+I'm+Pallavi,+a+full-stack+software+developer!)](https://git.io/typing-svg)
 
-<hr style="border: 2px solid #ff6600;">
+<hr style="border: 2px solid #6833F7;">
 
 ### ⚡ Quick Facts
 - **Professional Focus:** Full-Stack Software Developement
 - **Background:** Dual-qualified lawyer turned software-developer
 - **Passions:** Blending creativity and analytical thinking to craft elegant solutions
 
-<hr style="border: 2px solid #ff6600;">
+<hr style="border: 2px solid #6833F7;">
 
 ### 🌟 Core Strengths
 My legal background has equipped me with a unique and powerful set of skills that I seamlessly integrate into my role as a software-developer:
