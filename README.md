@@ -4,9 +4,9 @@
 <hr style="border: 2px solid #6833F7;">
 
 ### ⚡ Overview
-- **Professional Focus:** Full-Stack Software Developement
-- **Background:** Dual-qualified lawyer turned software-developer
-- **Passions:** Blending creativity and analytical thinking to craft elegant solutions
+**Professional Focus:** Full-Stack Software Developement
+**Background:** Dual-qualified lawyer turned software-developer
+**Passions:** Blending creativity and analytical thinking to craft elegant solutions
 
 <hr style="border: 2px solid #6833F7;">
 
@@ -20,23 +20,23 @@
 <hr style="border: 2px solid #ff6600;">
 
 ### 🎉 Fun Facts
-- **🐾 Pet Parent:** Love taking care of my lil ball of fur
-- **🌿 Plant Enthusiast:** Passionate about nurturing a variety of house-plants.
-- **🌍 Avid Traveler:** Love exploring new destinations and immersing myself in different cultures.
-- **❤️ Heart Warrior:** Strong and resilient, facing life challenges with courage.
-- **📚 Lifelong Learner:** Constantly seeking knowledge and honing my skills.
+**🐾 Pet Parent:** Love taking care of my lil ball of fur
+**🌿 Plant Enthusiast:** Passionate about nurturing a variety of house-plants.
+**🌍 Avid Traveler:** Love exploring new destinations and immersing myself in different cultures.
+**❤️ Heart Warrior:** Strong and resilient, facing life challenges with courage.
+**📚 Lifelong Learner:** Constantly seeking knowledge and honing my skills.
 
 <hr style="border: 2px solid #ff6600;">
 
 ### 🌟 Core Strengths
 My legal background has equipped me with a unique and powerful set of skills that I seamlessly integrate into my role as a software-developer:
-- **💬 Effective Communication:** Adept at articulating complex ideas clearly and collaborating effectively with diverse teams.
-- **🔍 Meticulous Attention to Detail:** Precision-oriented, ensuring every line of code is crafted with care and accuracy.
-- **🤝 Collaborative Spirit:** Thrives in team environments, fostering cooperation and achieving collective goals.
-- **🧠 Logical Reasoning:** Strong analytical skills enable me to tackle challenging problems with structured and logical solutions.
-- **💪 Relentless Work Ethic:** Dedicated and hardworking, consistently going above and beyond to achieve excellence.
-- **✨ Creative Problem Solver:** Innovative thinker, adept at finding creative solutions to complex technical challenges.
-- **🤝 Skilled Negotiator:** Adept at finding common ground and resolving conflicts effectively.
+**💬 Effective Communication:** Adept at articulating complex ideas clearly and collaborating effectively with diverse teams.
+**🔍 Meticulous Attention to Detail:** Precision-oriented, ensuring every line of code is crafted with care and accuracy.
+**🤝 Collaborative Spirit:** Thrives in team environments, fostering cooperation and achieving collective goals.
+**🧠 Logical Reasoning:** Strong analytical skills enable me to tackle challenging problems with structured and logical solutions.
+**💪 Relentless Work Ethic:** Dedicated and hardworking, consistently going above and beyond to achieve excellence.
+**✨ Creative Problem Solver:** Innovative thinker, adept at finding creative solutions to complex technical challenges.
+**🤝 Skilled Negotiator:** Adept at finding common ground and resolving conflicts effectively.
 
   <hr style="border: 2px solid #ff6600;">
 
