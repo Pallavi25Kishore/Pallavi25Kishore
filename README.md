@@ -8,10 +8,19 @@
 </div>
 <hr style="border: 2px solid #6833F7;">
 
-### :fire:Overview
-- **Professional Focus:** Full-Stack Software Developement
-- **Background:** Dual-qualified lawyer turned software-developer
-- **Passions:** Blending creativity and analytical thinking to craft elegant solutions
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <h3>:fire: Overview</h3>
+    <ul>
+      <li><strong>Professional Focus:</strong> Full-Stack Software Development</li>
+      <li><strong>Background:</strong> Dual-qualified lawyer turned software-developer</li>
+      <li><strong>Passions:</strong> Blending creativity and analytical thinking to craft elegant solutions</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="./Animation - 1722528065159.gif" alt="Cute Robot Animation" style="max-width: 100%;">
+  </div>
+</div>
 
 <hr style="border: 2px solid #6833F7;">
 
