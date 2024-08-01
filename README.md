@@ -1,5 +1,5 @@
 ## About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋 Hi+there!+I'm+Pallavi,+a+full-stack+software+developer!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6833F7&width=435&lines=👋 Hi+there!+I'm+Pallavi,+a+full-stack+software+developer!" alt="Typing SVG" /></a>
 
 <hr style="border: 2px solid #ff6600;">
 
