@@ -13,6 +13,11 @@
 - **Background:** Dual-qualified lawyer turned software-developer
 - **Passions:** Blending creativity and analytical thinking to craft elegant solutions
 
+  <div align="right">
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+  <lottie-player src="https://lottie.host/95c3c3ed-0ccc-40ed-9fd6-5614ba001e61/pM7QVXLz5h.json" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></lottie-player>
+</div>
+
 <hr style="border: 2px solid #6833F7;">
 
 ### 🛠️ Technologies & Tools
