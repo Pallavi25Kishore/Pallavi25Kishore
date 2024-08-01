@@ -12,7 +12,7 @@
 - **Professional Focus:** Full-Stack Software Developement
 - **Background:** Dual-qualified lawyer turned software-developer
 - **Passions:** Blending creativity and analytical thinking to craft elegant solutions
-- 
+  
 <hr style="border: 2px solid #6833F7;">
 
 ### 🛠️ Technologies & Tools
@@ -53,9 +53,8 @@ My legal background has equipped me with a unique and powerful set of skills tha
 
 <hr style="border: 2px solid #ff6600;">
 
-### 📫 Let's Connect!
+### 📫 <img src="./Animation - 1722528065159.gif" alt="Cute Robot Animation"> Let's Connect!
 <p>
-  <img src="./Animation - 1722528065159.gif" alt="Cute Robot Animation">
   <a href="https://www.linkedin.com/in/pallavi-kishore-46251726/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
