@@ -47,7 +47,6 @@ My legal background has equipped me with a unique and powerful set of skills tha
 
 ### 🎓 Education
 <p>
-  <img src="./Animation - 1722528065159.gif" alt="Cute Robot Animation" height="80">
   <img src="https://img.shields.io/badge/Hack%20Reactor-black?style=for-the-badge" alt="Hack Reactor" />
   <img src="https://img.shields.io/badge/Harvard%20Law%20School-black?style=for-the-badge" alt="Harvard Law School" />
 </p>
@@ -55,7 +54,8 @@ My legal background has equipped me with a unique and powerful set of skills tha
 <hr style="border: 2px solid #ff6600;">
 
 ### 📫 Let's Connect!
-<p>
+<p style="display: flex; align-items: center; gap: 10px;">
+  <img src="./Animation - 1722528065159.gif" alt="Cute Robot Animation" height="80">
   <a href="https://www.linkedin.com/in/pallavi-kishore-46251726/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
