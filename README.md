@@ -49,11 +49,6 @@ My legal background has equipped me with a unique and powerful set of skills tha
 
 <hr style="border: 2px solid #ff6600;">
 
-### 🤝 Happy to Collaborate
-I am always excited to collaborate on interesting projects and ideas!
-
-<hr style="border: 2px solid #ff6600;">
-
 ### 📫 Let's Connect!
 <p>
   <a href="https://www.linkedin.com/in/pallavi-kishore-46251726/" style="text-decoration: none;">
