@@ -3,7 +3,7 @@
 ![Snake Game](https://github.com/Pallavi25Kishore/Pallavi25Kishore/raw/output/github-contribution-grid-snake-dark.svg)
 <hr style="border: 2px solid #6833F7;">
 
-### ⚡ Quick Facts
+### ⚡ Overview
 - **Professional Focus:** Full-Stack Software Developement
 - **Background:** Dual-qualified lawyer turned software-developer
 - **Passions:** Blending creativity and analytical thinking to craft elegant solutions
@@ -43,7 +43,6 @@ My legal background has equipped me with a unique and powerful set of skills tha
 ### 🎓 Education
 <p>
   <img src="https://img.shields.io/badge/Hack%20Reactor-black?style=for-the-badge" alt="Hack Reactor" />
-  <br>
   <img src="https://img.shields.io/badge/Harvard%20Law%20School-black?style=for-the-badge" alt="Harvard Law School" />
 </p>
 
@@ -54,7 +53,6 @@ My legal background has equipped me with a unique and powerful set of skills tha
   <a href="https://www.linkedin.com/in/pallavi-kishore-46251726/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <br>
   <a href="mailto:Pallavi25Kishore@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail" alt="Gmail" />
   </a>
