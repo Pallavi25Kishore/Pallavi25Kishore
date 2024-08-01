@@ -1,10 +1,18 @@
 ## :wave:About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6833F7&width=800&lines=Hi+there!+I'm+Pallavi,+a+full-stack+software+developer!)](https://git.io/typing-svg)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Pallavi25Kishore/Pallavi25Kishore/raw/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Pallavi25Kishore/Pallavi25Kishore/raw/output/github-contribution-grid-snake.svg">
-<!--   <img alt="github contribution grid snake" src="https://github.com/Pallavi25Kishore/Pallavi25Kishore/raw/output/github-contribution-grid-snake.svg"> -->
-</picture>
+<img id="light-mode-image" src="https://github.com/Pallavi25Kishore/Pallavi25Kishore/raw/output/github-contribution-grid-snake.svg" style="display: block; max-width: 100%;">
+<img id="dark-mode-image" src="https://github.com/Pallavi25Kishore/Pallavi25Kishore/raw/output/github-contribution-grid-snake-dark.svg" style="display: none; max-width: 100%;">
+
+<style>
+  @media (prefers-color-scheme: dark) {
+    #dark-mode-image {
+      display: none;
+    }
+    #light-mode-image {
+      display: block;
+    }
+  }
+</style>
 <hr style="border: 2px solid #6833F7;">
 
 ### ⚡ Overview
