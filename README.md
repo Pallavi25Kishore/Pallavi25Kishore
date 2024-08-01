@@ -67,4 +67,3 @@ I am always excited to collaborate on interesting projects and ideas.
 
 <hr style="border: 2px solid #ff6600;">
 
-![Pallavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pallavi25Kishore&theme=ambient_gradient_icons=true)
