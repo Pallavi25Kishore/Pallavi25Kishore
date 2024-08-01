@@ -8,7 +8,8 @@
 </div>
 <hr style="border: 2px solid #6833F7;">
 
-### ⚡ Overview
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="50px" />
+### Overview
 - **Professional Focus:** Full-Stack Software Developement
 - **Background:** Dual-qualified lawyer turned software-developer
 - **Passions:** Blending creativity and analytical thinking to craft elegant solutions
