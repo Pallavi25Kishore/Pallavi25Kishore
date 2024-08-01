@@ -2,14 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6833F7&width=800&lines=Hi+there!+I'm+Pallavi,+a+full-stack+software+developer!)](https://git.io/typing-svg)
 
 <hr style="border: 2px solid #6833F7;">
-
 ### ⚡ Quick Facts
 - **Professional Focus:** Full-Stack Software Developement
 - **Background:** Dual-qualified lawyer turned software-developer
 - **Passions:** Blending creativity and analytical thinking to craft elegant solutions
 
 <hr style="border: 2px solid #6833F7;">
-
 ### 🌟 Core Strengths
 My legal background has equipped me with a unique and powerful set of skills that I seamlessly integrate into my role as a software-developer:
 - **💬 Effective Communication:** Adept at articulating complex ideas clearly and collaborating effectively with diverse teams.
@@ -21,7 +19,6 @@ My legal background has equipped me with a unique and powerful set of skills tha
 - **🤝 Skilled Negotiator:** Adept at finding common ground and resolving conflicts effectively.
 
 <hr style="border: 2px solid #ff6600;">
-
 ### 🛠️ Technologies & Tools
 <p>
   <a href="https://skillicons.dev">
@@ -30,7 +27,6 @@ My legal background has equipped me with a unique and powerful set of skills tha
 </p>
 
 <hr style="border: 2px solid #ff6600;">
-
 ### 🎉 Fun Facts
 - **🐾 Pet Parent:** Love taking care of my lil ball of fur
 - **🌿 Plant Enthusiast:** Passionate about nurturing a variety of house-plants.
@@ -39,7 +35,6 @@ My legal background has equipped me with a unique and powerful set of skills tha
 - **📚 Lifelong Learner:** Constantly seeking knowledge and honing my skills.
 
 <hr style="border: 2px solid #ff6600;">
-
 ### 🎓 Education
 <p>
   <img src="https://img.shields.io/badge/Hack%20Reactor-black?style=for-the-badge" alt="Hack Reactor" />
@@ -48,13 +43,11 @@ My legal background has equipped me with a unique and powerful set of skills tha
 </p>
 
 <hr style="border: 2px solid #ff6600;">
-
 ### 🤝 Happy to Collaborate
 I am always excited to collaborate on interesting projects and ideas.
 
 <hr style="border: 2px solid #ff6600;">
-
-### 📫 Let's Connect
+### 📫 Let's Connect!
 <p>
   <a href="https://www.linkedin.com/in/pallavi-kishore-46251726/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -66,7 +59,6 @@ I am always excited to collaborate on interesting projects and ideas.
 </p>
 
 <hr style="border: 2px solid #ff6600;">
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pallavi25Kishore&theme=discord&title=-Stars,-Followers,-Experience,-Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr style="border: 2px solid #ff6600;">
