@@ -8,20 +8,11 @@
 </div>
 <hr style="border: 2px solid #6833F7;">
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="flex: 2; padding-right: 20px;">
-    <h3>:fire: Overview</h3>
-    <ul>
-      <li><strong>Professional Focus:</strong> Full-Stack Software Development</li>
-      <li><strong>Background:</strong> Dual-qualified lawyer turned software-developer</li>
-      <li><strong>Passions:</strong> Blending creativity and analytical thinking to craft elegant solutions</li>
-    </ul>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="./Animation - 1722528065159.gif" alt="Cute Robot Animation" style="max-width: 100%;">
-  </div>
-</div>
-
+### :fire:Overview
+- **Professional Focus:** Full-Stack Software Developement
+- **Background:** Dual-qualified lawyer turned software-developer
+- **Passions:** Blending creativity and analytical thinking to craft elegant solutions
+- 
 <hr style="border: 2px solid #6833F7;">
 
 ### 🛠️ Technologies & Tools
@@ -64,6 +55,7 @@ My legal background has equipped me with a unique and powerful set of skills tha
 
 ### 📫 Let's Connect!
 <p>
+  <img src="./Animation - 1722528065159.gif" alt="Cute Robot Animation">
   <a href="https://www.linkedin.com/in/pallavi-kishore-46251726/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
