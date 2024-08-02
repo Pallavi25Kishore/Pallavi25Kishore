@@ -25,7 +25,7 @@
 <hr style="border: 2px solid #ff6600;">
 
 ### 🎉 Fun Facts
-- 🐾 [Pet Parent:](https://img.shields.io/badge/Pet%20Parent-pink) : Love taking care of my lil ball of fur
+- 🐾 <img alt="Static Badge" src="https://img.shields.io/badge/Pet%20Parent-pink"> <span>: Love taking care of my lil ball of fur<span>
 - **🌿 Plant Enthusiast:** Passionate about nurturing a variety of house-plants.
 - **🌍 Avid Traveler:** Love exploring new destinations and immersing myself in different cultures.
 - **❤️ Heart Warrior:** Strong and resilient, facing life challenges with courage.
