@@ -1,4 +1,4 @@
-## :wave:About Me
+<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">##About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6833F7&width=800&lines=Hi+there!+I'm+Pallavi,+a+full-stack+software+developer!)](https://git.io/typing-svg) 
 <div align="center">
   <picture>
