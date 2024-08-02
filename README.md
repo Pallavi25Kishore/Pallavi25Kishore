@@ -25,10 +25,12 @@
 
 ### 🎉 Fun Facts
 - 🐾 <img alt="Static Badge" src="https://img.shields.io/badge/Pet%20Parent-purple?style=for-the-badge"> <span>: Love taking care of my lil ball of fur<span>
-- 🌿 <img alt="Static Badge" src="https://img.shields.io/badge/Plant%20Enthusiast-green?style=for-the-badge"> <span>: Passionate about nurturing a variety of house-plants<span>
+- 🌿 <img alt="Static Badge" src="https://img.shields.io/badge/Plant%20Enthusiast-green?style=for-the-badge"> <span>: Enthusiastic about nurturing a variety of house-plants<span>
 - 🌍 <img alt="Static Badge" src="https://img.shields.io/badge/Avid%20Traveler-yellow?style=for-the-badge"> <span>: Love exploring new destinations and immersing myself in different cultures<span>
 - ❤️ <img alt="Static Badge" src="https://img.shields.io/badge/Heart%20Warrior-red?style=for-the-badge"> <span>: Strong and resilient, facing life challenges with courage<span>
 - 📚 <img alt="Static Badge" src="https://img.shields.io/badge/Lifelong%20Learner-orange?style=for-the-badge"> <span>: Constantly seeking knowledge and honing my skills<span>
+- :camera: <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Storyteller-indigo?style=for-the-badge"> <span>: Passionate about capturing moments through photography<span>
+- :cake: <img alt="Static Badge" src="https://img.shields.io/badge/Culinary%20Explorer-red?style=for-the-badge"> <span>: Enjoy experimenting with new recipes<span>
 
 <hr style="border: 2px solid #ff6600;">
 
