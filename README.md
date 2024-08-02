@@ -10,7 +10,7 @@
 
 ### :fire:Overview
 - <img alt="Static Badge" src="https://img.shields.io/badge/Professional%20Focus-crimson?style=for-the-badge"> <span>: Full-Stack Software Developement<span>
-- <img alt="Static Badge" src="https://img.shields.io/badge/Background-black?style=for-the-badge"> <span>: Dual-qualified lawyer turned software-developer<span>
+- <img alt="Static Badge" src="https://img.shields.io/badge/Background-blue?style=for-the-badge"> <span>: Dual-qualified lawyer turned software-developer<span>
 - <img alt="Static Badge" src="https://img.shields.io/badge/Passions-gold?style=for-the-badge"> <span>: Blending creativity and analytical thinking to craft elegant solutions<span>
   
 <hr style="border: 2px solid #6833F7;">
@@ -39,9 +39,9 @@ My legal background has equipped me with a unique and powerful set of skills tha
 - 🔍 <img alt="Static Badge" src="https://img.shields.io/badge/Meticulous%20Attention%20to%20Detail-gold?style=for-the-badge"> <span>: Precision-oriented, ensuring every line of code is crafted with care and accuracy<span>
 - 🤝 <img alt="Static Badge" src="https://img.shields.io/badge/Collaborative%20Spirit-violet?style=for-the-badge"> <span>: Thrives in team environments, fostering cooperation and achieving collective goals<span>
 - 🧠 <img alt="Static Badge" src="https://img.shields.io/badge/Logical%20Reasoning-red?style=for-the-badge"> <span>: Strong analytical skills to tackle challenging problems with structured and logical solutions<span>
-- 💪 <img alt="Static Badge" src="https://img.shields.io/badge/Relentless%20Work%20Ethic-neon?style=for-the-badge"> <span>: Dedicated and hardworking, consistently going above and beyond to achieve excellence<span>
+- 💪 <img alt="Static Badge" src="https://img.shields.io/badge/Relentless%20Work%20Ethic-green?style=for-the-badge"> <span>: Dedicated and hardworking, consistently going above and beyond to achieve excellence<span>
 - ✨ <img alt="Static Badge" src="https://img.shields.io/badge/Creative%20Problem%20Solver-grey?style=for-the-badge"> <span>: Innovative thinker, adept at finding creative solutions to complex technical challenges<span>
-- 🤝 <img alt="Static Badge" src="https://img.shields.io/badge/Skilled%20Negotiator-darkgreen?style=for-the-badge"> <span>: Adept at finding common ground and resolving conflicts effectively<span>
+- 🤝 <img alt="Static Badge" src="https://img.shields.io/badge/Skilled%20Negotiator-olive?style=for-the-badge"> <span>: Adept at finding common ground and resolving conflicts effectively<span>
 
 <hr style="border: 2px solid #ff6600;">
 
