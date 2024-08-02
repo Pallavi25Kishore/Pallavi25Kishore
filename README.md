@@ -35,8 +35,8 @@
 
 ### 🌟 Core Strengths
 My legal background has equipped me with a unique and powerful set of skills that I seamlessly integrate into my role as a software-developer:
-- 💬 <img alt="Static Badge" src="https://img.shields.io/badge/Effective%20Communication-blue?style=for-the-badge"> <span>: Adept at articulating complex ideas clearly and collaborating effectively with diverse teams<span>
-- 🔍 <img alt="Static Badge" src="https://img.shields.io/badge/Meticulous%20Attention%20to%20Detail-gold?style=for-the-badge"> <span>: Precision-oriented, ensuring every line of code is crafted with care and accuracy<span>
+- 💬 <img alt="Static Badge" src="https://img.shields.io/badge/Effective%20Communication-blue?style=for-the-badge"> <span>: Adept at articulating ideas clearly and collaborating effectively with diverse teams<span>
+- 🔍 <img alt="Static Badge" src="https://img.shields.io/badge/Meticulous%20Attention%20to%20Detail-gold?style=for-the-badge"> <span>: Precision-oriented, ensuring that code is crafted with care and accuracy<span>
 - 🤝 <img alt="Static Badge" src="https://img.shields.io/badge/Collaborative%20Spirit-violet?style=for-the-badge"> <span>: Thrives in team environments, fostering cooperation and achieving collective goals<span>
 - 🧠 <img alt="Static Badge" src="https://img.shields.io/badge/Logical%20Reasoning-red?style=for-the-badge"> <span>: Strong analytical skills to tackle challenging problems with structured and logical solutions<span>
 - 💪 <img alt="Static Badge" src="https://img.shields.io/badge/Relentless%20Work%20Ethic-green?style=for-the-badge"> <span>: Dedicated and hardworking, consistently going above and beyond to achieve excellence<span>
