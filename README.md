@@ -1,5 +1,5 @@
-<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">##About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6833F7&width=800&lines=Hi+there!+I'm+Pallavi,+a+full-stack+software+developer!)](https://git.io/typing-svg) 
+##About Me
+<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6833F7&width=800&lines=Hi+there!+I'm+Pallavi,+a+full-stack+software+developer!)](https://git.io/typing-svg) 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Pallavi25Kishore/Pallavi25Kishore/raw/output/github-contribution-grid-snake-dark.svg">
