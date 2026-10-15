@@ -8,7 +8,7 @@
 <hr style="border: 2px solid #6833F7;">
 
 ### :fire:Overview
-- <img alt="Static Badge" src="https://img.shields.io/badge/Professional%20Focus-crimson?style=for-the-badge"> <span>: Full-Stack Software Developement<span>
+- <img alt="Static Badge" src="https://img.shields.io/badge/Professional%20Focus-crimson?style=for-the-badge"> <span>: Full-Stack Software Development<span>
 - <img alt="Static Badge" src="https://img.shields.io/badge/Background-blue?style=for-the-badge"> <span>: Dual-qualified lawyer turned software-developer<span>
 - <img alt="Static Badge" src="https://img.shields.io/badge/Passions-gold?style=for-the-badge"> <span>: Blending creativity and analytical thinking to craft elegant solutions<span>
   
@@ -24,25 +24,25 @@
 <hr style="border: 2px solid #ff6600;">
 
 ### 🎉 Fun Facts
-- 🐾 <img alt="Static Badge" src="https://img.shields.io/badge/Pet%20Parent-purple?style=for-the-badge"> <span>: Love taking care of my lil ball of fur<span>
-- 🌿 <img alt="Static Badge" src="https://img.shields.io/badge/Plant%20Enthusiast-green?style=for-the-badge"> <span>: Enthusiastic about nurturing a variety of house-plants<span>
-- 🌍 <img alt="Static Badge" src="https://img.shields.io/badge/Avid%20Traveler-yellow?style=for-the-badge"> <span>: Love exploring new destinations and immersing myself in different cultures<span>
-- ❤️ <img alt="Static Badge" src="https://img.shields.io/badge/Heart%20Warrior-red?style=for-the-badge"> <span>: Strong and resilient, facing life challenges with courage<span>
-- 📚 <img alt="Static Badge" src="https://img.shields.io/badge/Lifelong%20Learner-orange?style=for-the-badge"> <span>: Constantly seeking knowledge and honing my skills<span>
-- :camera: <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Storyteller-indigo?style=for-the-badge"> <span>: Passionate about capturing moments through photography<span>
-- :cake: <img alt="Static Badge" src="https://img.shields.io/badge/Culinary%20Explorer-red?style=for-the-badge"> <span>: Enjoy experimenting with new recipes<span>
+- <img alt="Static Badge" src="https://img.shields.io/badge/Pet%20Parent-purple?style=for-the-badge"> <span>: Love taking care of my lil ball of fur<span>
+- <img alt="Static Badge" src="https://img.shields.io/badge/Plant%20Enthusiast-green?style=for-the-badge"> <span>: Enthusiastic about nurturing a variety of house-plants<span>
+- <img alt="Static Badge" src="https://img.shields.io/badge/Avid%20Traveler-yellow?style=for-the-badge"> <span>: Love exploring new destinations and immersing myself in different cultures<span>
+- <img alt="Static Badge" src="https://img.shields.io/badge/Heart%20Warrior-red?style=for-the-badge"> <span>: Strong and resilient, facing life challenges with courage<span>
+- <img alt="Static Badge" src="https://img.shields.io/badge/Lifelong%20Learner-orange?style=for-the-badge"> <span>: Constantly seeking knowledge and honing my skills<span>
+- <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Storyteller-indigo?style=for-the-badge"> <span>: Passionate about capturing moments through photography<span>
+- <img alt="Static Badge" src="https://img.shields.io/badge/Culinary%20Explorer-red?style=for-the-badge"> <span>: Enjoy experimenting with new recipes<span>
 
 <hr style="border: 2px solid #ff6600;">
 
 ### 🌟 Core Strengths
 My legal background has equipped me with a unique and powerful set of skills that I seamlessly integrate into my role as a software-developer:
-- 💬 <img alt="Static Badge" src="https://img.shields.io/badge/Effective%20Communication-blue?style=for-the-badge"> <span>: Adept at articulating ideas clearly and collaborating effectively with diverse teams<span>
-- 🔍 <img alt="Static Badge" src="https://img.shields.io/badge/Meticulous%20Attention%20to%20Detail-gold?style=for-the-badge"> <span>: Precision-oriented, ensuring that code is crafted with care and accuracy<span>
-- 🤝 <img alt="Static Badge" src="https://img.shields.io/badge/Collaborative%20Spirit-violet?style=for-the-badge"> <span>: Thrives in team environments, fostering cooperation and achieving collective goals<span>
-- 🧠 <img alt="Static Badge" src="https://img.shields.io/badge/Logical%20Reasoning-red?style=for-the-badge"> <span>: Strong analytical skills to tackle challenging problems with structured and logical solutions<span>
-- 💪 <img alt="Static Badge" src="https://img.shields.io/badge/Relentless%20Work%20Ethic-green?style=for-the-badge"> <span>: Dedicated and hardworking, consistently going above and beyond to achieve excellence<span>
-- ✨ <img alt="Static Badge" src="https://img.shields.io/badge/Creative%20Problem%20Solver-grey?style=for-the-badge"> <span>: Innovative thinker, adept at finding creative solutions to complex technical challenges<span>
-- 🤝 <img alt="Static Badge" src="https://img.shields.io/badge/Skilled%20Negotiator-olive?style=for-the-badge"> <span>: Adept at finding common ground and resolving conflicts effectively<span>
+- <img alt="Static Badge" src="https://img.shields.io/badge/Effective%20Communication-blue?style=for-the-badge"> <span>: Adept at articulating ideas clearly and collaborating effectively with diverse teams<span>
+- <img alt="Static Badge" src="https://img.shields.io/badge/Meticulous%20Attention%20to%20Detail-gold?style=for-the-badge"> <span>: Precision-oriented, ensuring that code is crafted with care and accuracy<span>
+- <img alt="Static Badge" src="https://img.shields.io/badge/Collaborative%20Spirit-violet?style=for-the-badge"> <span>: Thrives in team environments, fostering cooperation and achieving collective goals<span>
+- <img alt="Static Badge" src="https://img.shields.io/badge/Logical%20Reasoning-red?style=for-the-badge"> <span>: Strong analytical skills to tackle challenging problems with structured and logical solutions<span>
+- <img alt="Static Badge" src="https://img.shields.io/badge/Relentless%20Work%20Ethic-green?style=for-the-badge"> <span>: Dedicated and hardworking, consistently going above and beyond to achieve excellence<span>
+- <img alt="Static Badge" src="https://img.shields.io/badge/Creative%20Problem%20Solver-grey?style=for-the-badge"> <span>: Innovative thinker, adept at finding creative solutions to complex technical challenges<span>
+- <img alt="Static Badge" src="https://img.shields.io/badge/Skilled%20Negotiator-olive?style=for-the-badge"> <span>: Adept at finding common ground and resolving conflicts effectively<span>
 
 <hr style="border: 2px solid #ff6600;">
 
@@ -57,7 +57,7 @@ My legal background has equipped me with a unique and powerful set of skills tha
 ### 📫 Let's Connect!
 
 <p>
-  <img src="./Animation - 1722528065159.gif" alt="Cute Robot Animation" height="100">
+  <img src="./robot.svg" alt="Cute robot waving hello" height="100">
   <a href="https://www.linkedin.com/in/pallavi-kishore-46251726/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
